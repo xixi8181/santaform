@@ -1,0 +1,16 @@
+body {
+    background-image :url(background\ pic.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+.center{
+    text-align: center;
+}
+/* 
+<label for ="Name">Nickname : </label>
+<label for ="Fav">Fav color : </label>
+<label for ="Email">Email : </label>
+<label for ="text">Write down something : </label>
